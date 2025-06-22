@@ -1,31 +1,22 @@
 <h1>Olá, sou Edwin! </h1>
 
-<h2>💻 Projetos de Cibersegurança: </h2>
-
-- [Auditoria com NIST CSF](https://github.com/Edwin28Macias/Audit_NIST/blob/main/README.md)
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edwin28Macias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edwin28Macias&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## 💻 Projetos de Cibersegurança: </h2>
+### - [Auditoria com NIST CSF](https://github.com/Edwin28Macias/Audit_NIST/blob/main/README.md)
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
+<br><br><br><br><br><br><br>
 
 
 
 
 ## 🛠️ Habilidades
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Ferramentas de Cibersegurança
- 
 <p>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,kali,bash,sqlite" />
-    <img src="https://github.com/user-attachments/assets/f633198c-1a2b-4eb3-a410-02799adbb6eb" width="48" height="48" />
+    <img src="https://github.com/user-attachments/assets/7090a2f1-22e0-4a71-a4db-5640b80d31ab" width="48" height="48" />
   <img src="https://github.com/user-attachments/assets/327443cc-3d61-4893-a496-43fac3f0b933" style="border-radius: 15px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" width="48" height="48"/>
   </a>
 </p>
@@ -56,9 +47,22 @@
 <br> 
 
 ---
+## 🌏 Idiomas
+ ### <picture> <img src = "https://github.com/user-attachments/assets/0333e08b-247d-4714-ac1e-f55c18c5c6d8" width = 50px height = 30px; border-radius = 40px>  </picture> Nativo 
+ ### <picture> <img src = "https://github.com/user-attachments/assets/be3abaaa-cef8-4012-9038-ea293339d69f" width = 50px height = 30px; border-radius = 40px>  </picture>  Nativo
+  ### <picture> <img src = "https://github.com/user-attachments/assets/b05d0b73-2750-44bd-834a-bb4ebe78b7af" width = 50px height = 30px; border-radius = 40px>  </picture>  Intermediario/Avançado
 
 
+<br>
 
+---
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edwin28Macias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edwin28Macias&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <div align="center">
