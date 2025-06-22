@@ -1,6 +1,6 @@
-<h1>Hello, I'm Edwin! </h1>
+<h1>Olá, sou Edwin! </h1>
 
-<h2>💻 Cybersecurity Projects: </h2>
+<h2>💻 Projetos de Cibersegurança: </h2>
 
-- [Audit with NIST CSF]
+- [Auditoria com NIST CSF](https://github.com/Edwin28Macias/Audit_NIST/blob/main/README.md)
 
