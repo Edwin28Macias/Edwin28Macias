@@ -1,6 +1,7 @@
 <h1>Olá, sou Edwin! </h1>
 
 ## 💻 Projetos de Cibersegurança: </h2>
+### - [Analisador de Logs Firewall em Python](https://github.com/Edwin28Macias/Log_Security_Analyzer)
 ### - [Auditoria com NIST CSF](https://github.com/Edwin28Macias/Audit_NIST/blob/main/README.md)
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
