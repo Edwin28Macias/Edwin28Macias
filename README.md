@@ -2,7 +2,8 @@
 
 ## 💻 Projetos de Cibersegurança: </h2>
 ### - [Analisador de Logs Firewall em Python](https://github.com/Edwin28Macias/Log_Security_Analyzer)
-### - [Auditoria com NIST CSF](https://github.com/Edwin28Macias/Audit_NIST/blob/main/README.md)
+### - [Análise de Rede e Detecção de Ameaças]( https://github.com/Edwin28Macias/Analysis_ThreatDetection.git)
+### - [Auditoria com NIST CSF](https://github.com/Edwin28Macias/Audit_NIST)
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
@@ -17,7 +18,7 @@
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,kali,bash,sqlite" />
-    <img src="https://github.com/user-attachments/assets/7090a2f1-22e0-4a71-a4db-5640b80d31ab" width="48" height="48" />
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="48" height="48" />
   <img src="https://github.com/user-attachments/assets/327443cc-3d61-4893-a496-43fac3f0b933" style="border-radius: 15px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" width="48" height="48"/>
   </a>
 </p>
