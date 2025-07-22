@@ -3,6 +3,7 @@
 ## 💻 Projetos de Cibersegurança: </h2>
 ### - [Analisador de Logs Firewall em Python](https://github.com/Edwin28Macias/Log_Security_Analyzer)
 ### - [Análise de Rede e Detecção de Ameaças]( https://github.com/Edwin28Macias/Analysis_ThreatDetection.git)
+### - [Ingestão de Dados e Análise de Segurança no Splunk Cloud](https://github.com/Edwin28Macias/Splunk-Vulnerability-Investigation-Practice)
 ### - [Auditoria com NIST CSF](https://github.com/Edwin28Macias/Audit_NIST)
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
